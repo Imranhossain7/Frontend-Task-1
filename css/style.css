@@ -529,8 +529,18 @@ footer {
   align-items: center;
   justify-content: space-between;
   flex-direction: row;
+  background: #ffffff;
+  color: #000000;
 }
 
 .footer li {
   list-style: none;
+  margin-bottom: 10px;
+}
+
+.footeritem {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
