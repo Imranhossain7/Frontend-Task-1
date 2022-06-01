@@ -8,7 +8,7 @@
 @import url("https://fonts.googleapis.com/css2?family=PT+Sans&display=swap");
 
 body {
-  font-family: "PT Sans", "Prototype", "PT Sans Pro" sans-serif;
+  font-family: "PT Sans", "Prototype", "PT Sans Pro", sans-serif;
   padding: 0;
   margin: 0;
   background-color: var(--body-color);
